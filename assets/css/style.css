@@ -294,3 +294,8 @@ footer {
     color: #fafafa;
     border-left: 1px solid;
 }
+
+.timeline-item p {
+    padding: 0;
+    margin: 0;
+}
