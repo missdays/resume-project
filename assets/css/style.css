@@ -287,3 +287,10 @@ footer {
     color: #fafafa;
     margin-bottom: 50px;
 }
+
+.timeline-item {
+    padding: 4em 2em 0em 2em;
+    position: relative;
+    color: #fafafa;
+    border-left: 1px solid;
+}
